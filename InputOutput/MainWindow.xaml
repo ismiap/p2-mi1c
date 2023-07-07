@@ -11,7 +11,7 @@
             HorizontalAlignment="Left"
             Margin="53,70,0,0" 
             TextWrapping="Wrap" 
-            Text="Nama             :" 
+            Text="Nama Saya     :" 
             VerticalAlignment="Top"/>
         <TextBox 
             HorizontalAlignment="Left" 
